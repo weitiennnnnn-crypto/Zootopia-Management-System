@@ -26,8 +26,8 @@ We used **Java Swing** for the entire interface. The most challenging part was p
 * **The Tree System:** Instead of a flat list, we used a `JTree` to organize animals. When you import a file, the tree updates itself automatically.
 * **Data Handling:** You can add, update, and **"release" (delete)** animals. All animal details like health and diet are stored and manageable through the UI.
 
-### **How It Looks (Presentation Slide Version)**
-* [View Presentation Slides (PDF)]*
+### **How It Looks**
+*****Please view the presentation slide uploaded*****
 
 ### **Team**
 This is a Zootopia Management System and we, 4 dedictaed members have developed this system:
