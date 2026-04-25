@@ -36,7 +36,7 @@ This is a Zootopia Management System and we, 4 dedictaed members have developed 
 * **Jia Poh              | D032410304 | S3G2**
 * **Kai Dit              | D032410113 | S3G1**
 
-*****DO NOT OPEN INSIDE THE SRC FILE, AS IT MAY NOT WORK UNEXPECTEDLY*****
-*****EXTRACT THE ZIP FILE AND RUN ON $HOME/Zootopia_ASH/ DIRECTORY*****
+*****DO NOT OPEN INSIDE THE SRC FILE, AS IT MAY NOT WORK UNEXPECTEDLY,*****
+*****EXTRACT THE ZIP FILE AND RUN ON $HOME/Zootopia-Management-System/ DIRECTORY*****
 
 
