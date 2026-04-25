@@ -1,0 +1,2 @@
+Lion|Jungle|Carnivore|This is a lion and we love it so much!
+Zebra|Savanna|Herbivore|lives in the wild

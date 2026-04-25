@@ -1,0 +1,4 @@
+
+Lion|Leo|Embryo|1|2026-04-25 18:47
+Lion|Alex|Mature|2
+Zebra|Zora|Juvenile|3|2026-04-25 18:47
