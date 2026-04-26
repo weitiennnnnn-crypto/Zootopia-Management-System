@@ -14,7 +14,7 @@ One of the unique parts of this project is the interface. I am a huge fan of the
 * Instead of the standard boring Java look, we used `TitledBorder` and custom colors to give it that retro, "indie game" vibe.
 
 ### **The Tech Behind It**
-We used **Java Swing** for the entire interface. The most challenging part was probably the layout management—getting everything to stay in place using `GridBagLayout` was a bit of a nightmare, but it allowed us to build custom dialogs that look organized.
+We used **Java Swing** for the entire interface. The most challenging part was probably the layout management, which is getting everything to stay in place using `GridBagLayout` was a bit of a nightmare, but it allowed us to build custom dialogs that look organized.
 
 * **Logic:** Heavily focused on **OOP (Inheritance & Encapsulation)**.
 * **UI Components:** Used a mix of `JTree` for navigation and `JDialog` for pop-up forms (Add, Remove, and Import).
